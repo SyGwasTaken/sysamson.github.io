@@ -28,7 +28,7 @@ youtube_username: https://www.youtube.com/channel/UCKC1P9sOsQU_GpWH8HbTAVw
 # Additional icon links
 additional_links:
 - title: facebook.com/Sy.Gaming17
-  icon: fa-brands fa-facebook
+  icon: fab fa-facebook https://fontawesome.com/icons/facebook?s=solid&f=brands
   url: https://www.facebook.com/gaming/Sy.Gaming17
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
