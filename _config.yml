@@ -56,6 +56,8 @@ content:
         title: Bongabon National High School
         caption: 2016-2022
         sub_title: STE & STEM
+        description: | # this will include new lines to allow paragraphs
+          During my time in High School this is where i met most of my friends that taught me how to communicate to other people and how to socialize to further improve my connections to people.
       - layout: left  
         title: Lyceum of the Philippines University - Manila
         caption: 2022-2026
